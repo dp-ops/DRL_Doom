@@ -1,0 +1,7 @@
+train/*
+utils/__pycache__/
+github/ViZDoom/*
+!github/ViZDoom/scenarios/
+!github/ViZDoom/scenarios/**
+# Ignore local configuration file
+_vizdoom.ini
