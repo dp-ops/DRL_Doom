@@ -1,3 +1,5 @@
+#This repo is made for a project in Deep Learning and Multimedia Data Analysis in MCS Artificial Inteligence of Aistotle University of Thessaloniki.
+
 # DRL Doom Project
 
 This project implements Deep Reinforcement Learning (DRL) techniques to train agents to play Doom using the ViZDoom environment. The repository includes training scripts, utility functions, and custom gym environments for experimentation.
